@@ -1,0 +1,66 @@
+.Carousel {
+  margin: 0 10px;
+  box-shadow: 0 10px 15px black;
+}
+
+.carousel-inner {
+  height: 80vh;
+}
+
+.carousel-item {
+  height: 80vh;
+}
+
+.carousel-caption h5 {
+  font-size: 2.5rem;
+}
+
+.carousel-caption p {
+  font-size: 1.3rem;
+}
+
+.Anime {
+  margin: 40px 20px;
+}
+
+.Manga {
+  margin: 40px 20px;
+}
+
+.Card {
+  height: 350px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.Card img {
+  height: 250px;
+  width: 180px;
+  border-radius: 5px;
+  box-shadow: 0 10px 15px black;
+}
+
+.card img:hover {
+  cursor: pointer;
+  height: 280px;
+  width: 200px;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin-top: 15px;
+}
+
+.Anime h3 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.Manga h3 {
+  font-size: 40px;
+  font-weight: 600;
+}

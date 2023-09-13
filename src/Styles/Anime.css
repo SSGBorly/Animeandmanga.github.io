@@ -1,0 +1,55 @@
+.Anime-Card {
+  height: 320px;
+  width: 460px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.container-fliud h3 {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.Anime-Card img {
+  height: 300px;
+  width: 220px;
+  border-radius: 5px;
+  box-shadow: 0 10px 15px black;
+  margin: 10px;
+  transition: 0.7s;
+}
+
+.Anime-Card img:hover {
+  height: 320px;
+  width: 230px;
+  box-shadow: 0 10px 15px black;
+  transition: 0.7s;
+}
+
+.Anime-Card-body h5 {
+  font-size: 1.8rem;
+}
+
+.Anime-Card-body p {
+  font-size: 1.2rem;
+}
+
+.btn {
+  height: 30px;
+  width: 100px;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background-color: blueviolet;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: orange;
+}

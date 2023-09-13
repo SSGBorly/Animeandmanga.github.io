@@ -1,0 +1,44 @@
+.navbar {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  height: 8vh;
+}
+
+.navbar-nav {
+  margin-right: 13rem;
+}
+
+.nav-link {
+  font-weight: 600;
+}
+
+.navbar li {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar .navbar-brand img {
+  height: 3rem;
+}
+
+.d-flex {
+  height: 5vh;
+  margin: auto;
+  padding: auto;
+}
+
+.d-flex input {
+  border-radius: 20px;
+  width: 60vh;
+  font-size: 15px;
+  opacity: 0.4;
+  padding: 7px;
+  color: #fff;
+}
+
+.d-flex .btn {
+  border-radius: 20px;
+  padding: 0;
+  width: 20vh;
+}

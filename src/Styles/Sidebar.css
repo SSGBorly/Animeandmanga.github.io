@@ -1,0 +1,15 @@
+.sidebar {
+  float: left;
+  width: 300px;
+}
+
+.sidebar h5 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.silder-link {
+  color: #fff;
+  text-decoration: none;
+}
